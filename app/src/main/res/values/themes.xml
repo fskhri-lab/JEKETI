@@ -54,7 +54,7 @@
         <item name="android:textColor">@color/secondary</item>
     </style>
 
-    <style name="Theme.OshiKita" parent="Base.Theme.OshiKita" />
+    <style name="Theme.JEKETI" parent="Base.Theme.OshiKita" />
 
     <style name="Theme.RemoveSplashScreenTheme" parent="Theme.AppCompat">
         <item name="android:colorBackground">@color/primaryLight</item>
